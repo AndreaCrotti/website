@@ -1,4 +1,10 @@
 baseURL = "andreacrotti.me"
 languageCode = "en-us"
 title = "Functional Ramblings"
-theme = "terminal"
+theme = "ananke"
+# theme = "terminal"
+paginate = 5
+
+[params]
+
+shareTo = ["Twitter"]
